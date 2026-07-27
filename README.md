@@ -1,4 +1,4 @@
-# 🔖 Collection of Web Developer Bookmarklets & Extension Tools
+# 🔖 Collection of Browsers Bookmarklets & Extension Tools
 
 A comprehensive, copyable repository of **121 JavaScript bookmarklets** for web developers, UI/UX designers, QA engineers, and security researchers.
 
