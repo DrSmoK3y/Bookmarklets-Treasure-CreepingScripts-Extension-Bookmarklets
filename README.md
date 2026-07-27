@@ -19,6 +19,10 @@ Each tool includes a ready-to-copy `javascript:` URL for direct browser installa
 
 ---
 
+## Use CreepingScripts Bookmarklets Extension
+A powerful bookmarklet manager that allows easy use and creation of bookmarklets. The extension is safe and user-friendly, similar to the Sealed artifact CreepingHunger.
+https://github.com/DrSmoK3y/CreepingScripts-Advance-Browser-Bookmarklets-Extension
+
 ## 📋 Categories Table of Contents
 
 - [📐 Layout & Grid Tools](#-layout-grid-tools)
